@@ -1,5 +1,5 @@
 ## UAS-5 My Professional Reviews
-Berikut adalah review dan analisis penilaian untuk keempat esai berdasarkan rubrik yang telah ditentukan:
+Berikut adalah review dan analisis penilaian untuk keempat esai berdasarkan rubrik yang telah ditentukan menggunakan AI:
 
 ---
 
@@ -61,5 +61,3 @@ Berikut adalah review dan analisis penilaian untuk keempat esai berdasarkan rubr
 **Skor Keseluruhan: 5 / 5**
 
 ---
-
-Apakah Anda ingin saya membuatkan ringkasan eksekutif dari seluruh penilaian ini untuk keperluan presentasi?
