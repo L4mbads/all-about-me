@@ -1,7 +1,25 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
+## Pembelajaran tentang Teknologi, Ketidaksetaraan, dan Tanggung Jawab Sosial
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+### Teknologi sebagai Cermin Struktur Sosial
+
+Salah satu pembelajaran utama dari pengembangan masterpiece ini adalah bahwa teknologi mencerminkan struktur sosial yang melahirkannya. Ketimpangan yang muncul dalam sistem digital sering kali merupakan refleksi dari ketimpangan di dunia nyata.
+
+---
+
+### Pentingnya Literasi Etis
+
+Pengetahuan teknis tanpa kesadaran etis berisiko menghasilkan solusi yang dangkal. Mahasiswa Teknik Informatika perlu memahami bahwa setiap keputusan desain membawa implikasi sosial jangka panjang.
+
+---
+
+### Pendekatan Sistemik
+
+Ketidaksetaraan global tidak dapat diselesaikan oleh satu aplikasi atau algoritma. Diperlukan kolaborasi antara teknologi, kebijakan publik, pendidikan, dan masyarakat sipil. Teknologi berperan sebagai penghubung, bukan penyelamat tunggal.
+
+---
+
+### Penutup Reflektif
+
+Pembelajaran terpenting dari masterpiece ini adalah kesadaran bahwa teknologi yang bermakna bukan hanya tentang kecanggihan, tetapi tentang **keberpihakan yang sadar**. Di era Artificial Intelligence, tanggung jawab pengguna teknologi adalah memastikan bahwa kemajuan tidak hanya dinikmati oleh segelintir orang, tetapi menjadi milik bersama umat manusia.
+

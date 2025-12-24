@@ -1,5 +1,38 @@
-## UAS-3 My Opinions
+# UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+## Artificial Intelligence Tidak Netral terhadap Ketidaksetaraan Global
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+### Netralitas Teknologi?
+
+**Artificial Intelligence** sering dipresentasikan sebagai teknologi objektif yang bebas nilai. Narasi ini membangun kepercayaan bahwa AI secara otomatis menghasilkan keputusan yang adil dan rasional. Namun, pandangan tersebut perlu dikritisi. AI tidak pernah benar-benar netral karena ia dibangun dari data historis, kepentingan ekonomi, dan asumsi sosial tidak setara yang berasal dari masyarakat.
+
+Ketika ketimpangan ekonomi global semakin melebar, klaim bahwa AI akan “secara alami” membawa keadilan menjadi problematis.
+
+---
+
+### AI dan Reproduksi Ketimpangan
+
+AI belajar dari data masa lalu. Jika data tersebut mencerminkan ketidakadilan struktural—seperti kemiskinan sistemik, diskriminasi akses pendidikan, atau dominasi ekonomi kelompok tertentu, maka AI berpotensi memperkuat pola tersebut.
+
+Contohnya, sistem AI dalam sektor finansial atau ketenagakerjaan dapat secara tidak langsung mendiskriminasi kelompok rentan karena data historis menunjukkan tingkat risiko yang lebih tinggi. Tanpa intervensi etis, sistem ini akan mengabadikan ketimpangan dalam bentuk baru yang lebih halus dan sulit dideteksi.
+
+---
+
+### AI sebagai Alat Kesetaraan Sosial
+
+Meskipun demikian, menolak AI bukanlah solusi. AI justru memiliki potensi besar sebagai alat kesetaraan jika diarahkan dengan benar. AI dapat digunakan untuk:
+
+* Mengidentifikasi wilayah dengan kebutuhan sosial tertinggi
+* Mengoptimalkan distribusi bantuan dan subsidi
+* Mendukung kebijakan publik berbasis data
+* Meningkatkan akses pendidikan melalui sistem pembelajaran adaptif
+
+Perbedaannya terletak pada **niat, regulasi, dan desain sistem**.
+
+---
+
+### Sikap yang Perlu Diambil
+
+Opini ini menegaskan bahwa insan teknologi tidak boleh bersikap pasif. Mahasiswa dan profesional Teknik Informatika perlu memiliki keberanian intelektual untuk mempertanyakan tujuan dan dampak sistem yang dibangun.
+
+Ketidaksetaraan global selain merupakan masalah teknis semata, juga merupakan persoalan moral. AI hanya akan menjadi solusi jika nilai keadilan ditanamkan secara eksplisit dalam desainnya.

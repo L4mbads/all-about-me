@@ -1,6 +1,45 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+## **Sistem dan Teknologi Informasi sebagai Instrumen Reduksi Ketidaksetaraan Global di Era Artificial Intelligence**
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+### Pendahuluan
+
+**Ketidaksetaraan global** merupakan salah satu tantangan terbesar yang dihadapi umat manusia pada abad ke-21. Meskipun kemajuan teknologi dan pertumbuhan ekonomi global terus meningkat, distribusi manfaatnya masih sangat tidak seimbang. Data dari berbagai lembaga internasional menunjukkan bahwa mayoritas populasi dunia tidak mengalami peningkatan kualitas hidup yang sebanding dengan laju pertumbuhan ekonomi global. Dalam konteks ini, sistem dan teknologi informasi, khususnya **Artificial Intelligence (AI)** muncul sebagai pedang bermata dua: berpotensi mempersempit ketimpangan, namun juga berisiko memperlebar jurang sosial jika tidak dikelola dengan penuh tanggung jawab.
+
+Konsep utama dalam masterpiece ini menempatkan teknologi sebagai **instrumen sosial**, dan Sistem informasi dipahami sebagai struktur yang membawa nilai, asumsi, dan konsekuensi sosial, lebih dari segi teknis.
+
+---
+
+### Teknologi Informasi sebagai Infrastruktur Sosial
+
+Secara fundamental, sistem teknologi informasi berfungsi sebagai infrastruktur yang mengatur aliran informasi, sumber daya, dan keputusan. Dalam masyarakat digital, akses terhadap sistem ini menentukan siapa yang dapat belajar, bekerja, dan berpartisipasi secara penuh dalam kehidupan sosial dan ekonomi.
+
+*Artificial Intelligence* memperluas fungsi tersebut dengan kemampuan analitik dan prediktif berbasis data skala besar. AI memungkinkan pengambilan keputusan yang lebih cepat dan berbasis bukti, misalnya dalam penyaluran bantuan sosial, pemetaan wilayah miskin, atau optimalisasi layanan publik. Namun, tanpa desain yang inklusif, sistem ini cenderung mereplikasi bias dan stigma yang sudah melekat dalam masyarakat.
+
+
+Oleh karena itu, konsep ini berpijak pada pandangan bahwa **ketidaksetaraan mencakup permasalahan distribusi akses terhadap teknologi dan sistem informasi**.
+
+---
+
+### Prinsip Konseptual: Akses, Akuntabilitas, dan Keadilan Algoritmik
+
+Konsep masterpiece ini dibangun di atas tiga prinsip utama:
+
+1. **Aksesibilitas Digital**\
+   Sistem harus dirancang agar dapat diakses oleh kelompok dengan keterbatasan ekonomi, pendidikan, dan geografis. Tanpa akses, teknologi justru menjadi mekanisme eksklusi baru.
+
+2. **Akuntabilitas Sistem**\
+   Model AI dan sistem informasi harus dapat diaudit, dijelaskan, dan dipertanggungjawabkan. Keputusan algoritmik yang memengaruhi kehidupan manusia tidak boleh bersifat opak (*black box*).
+
+3. **Keadilan Algoritmik**\
+   Sistem harus secara sadar menghindari bias terhadap kelompok tertentu. Ini menuntut penggunaan data yang representatif serta evaluasi berkelanjutan terhadap dampak sosial sistem.
+
+Ketiga prinsip ini menegaskan bahwa teknologi yang netral secara moral adalah ilusi. Setiap sistem mencerminkan nilai dari pembuatnya.
+
+---
+
+### Sudut Pandang Pribadi
+
+Secara pribadi, konsep ini menempatkan peran teknologi sebagai **arsitek struktur digital sosial**. Pemilihan algoritma, desain basis data, hingga antarmuka pengguna merupakan keputusan yang membawa implikasi etis.
+
+Dengan demikian, konsep ini valid secara logis, relevan secara sosial, dan memiliki kegunaan praktis dalam perumusan sistem teknologi yang berorientasi pada pengurangan ketidaksetaraan global.
