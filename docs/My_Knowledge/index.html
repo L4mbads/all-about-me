@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../My_Innovations/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
@@ -41,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-70a47bd5681a7291082a5b9f83d58762.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -70,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -124,7 +96,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Fachriza Ahmad Setiyono</a> 
     </div>
@@ -219,8 +193,20 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#pembelajaran-tentang-teknologi-ketidaksetaraan-dan-tanggung-jawab-sosial" id="toc-pembelajaran-tentang-teknologi-ketidaksetaraan-dan-tanggung-jawab-sosial" class="nav-link active" data-scroll-target="#pembelajaran-tentang-teknologi-ketidaksetaraan-dan-tanggung-jawab-sosial"><span class="header-section-number">9.1</span> Pembelajaran tentang Teknologi, Ketidaksetaraan, dan Tanggung Jawab Sosial</a>
+  <ul class="collapse">
+  <li><a href="#teknologi-sebagai-cermin-struktur-sosial" id="toc-teknologi-sebagai-cermin-struktur-sosial" class="nav-link" data-scroll-target="#teknologi-sebagai-cermin-struktur-sosial"><span class="header-section-number">9.1.1</span> Teknologi sebagai Cermin Struktur Sosial</a></li>
+  <li><a href="#pentingnya-literasi-etis" id="toc-pentingnya-literasi-etis" class="nav-link" data-scroll-target="#pentingnya-literasi-etis"><span class="header-section-number">9.1.2</span> Pentingnya Literasi Etis</a></li>
+  <li><a href="#pendekatan-sistemik" id="toc-pendekatan-sistemik" class="nav-link" data-scroll-target="#pendekatan-sistemik"><span class="header-section-number">9.1.3</span> Pendekatan Sistemik</a></li>
+  <li><a href="#penutup-reflektif" id="toc-penutup-reflektif" class="nav-link" data-scroll-target="#penutup-reflektif"><span class="header-section-number">9.1.4</span> Penutup Reflektif</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -244,37 +230,30 @@ window.Quarto = {
 </header>
 
 
-<p><strong>VALORISE dan Penyelesaian Paradoks Pendidikan Rekayasa</strong></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../images/5forces.png" class="img-fluid figure-img"></p>
-<figcaption>Valorize Learning</figcaption>
-</figure>
-</div>
-<p>Untuk mengajarkan paradigma TISE yang kompleks, metode pedagogis konvensional tidak memadai. Oleh karena itu, saya mengembangkan <strong>VALORISE</strong>. Ini adalah metodologi pedagogis TISE yang dirancang untuk menyelesaikan “Paradoks Pendidikan Ilmu Rekayasa”.</p>
-<p>Paradoksnya adalah ini: Bagaimana kita bisa menggunakan alat pemberdayaan mesin yang kuat (seperti AI generatif) tanpa <em>melemahkan</em> pemberdayaan manusia (Agensi, <em>Self-Authorship</em>)? Jika AI memberi siswa semua jawaban, mesin menjadi lebih pintar, tetapi siswa tidak.<sup>10</sup> Ini adalah kegagalan pedagogis.</p>
-<p>VALORISE menyelesaikan ini dengan dua komponen utama: struktur kurikulum dan desain agen pedagogis.</p>
-<ol type="1">
-<li><p><strong>Struktur Kurikulum (Peta ASTF):</strong></p>
-<ul>
-<li><p><strong>Peta Pengetahuan:</strong> Ini bukanlah daftar topik acak. Ia adalah <strong>Lapisan Fundamental (F) dan Teknologi (T)</strong> dari <strong>Arsitektur ASTF</strong>.<sup>3</sup> Siswa harus terlebih dahulu memahami prinsip-prinsip dasar: fisika “Energon” <sup>4</sup>, anatomi mesin PSKVE <sup>3</sup>, dan psikologi TISE 2.0 (AQ, Agensi, Penebusan).<sup>1</sup></p></li>
-<li><p><strong>Peta Aplikasi:</strong> Ini adalah <strong>Lapisan Aplikasi (A) dan Sistem (S)</strong> dari <strong>ASTF</strong>.<sup>3</sup> Siswa harus menerapkan “peta pengetahuan” mereka untuk merancang dan membangun sistem nyata (artefak TISE) yang memecahkan masalah pemangku kepentingan yang nyata.<sup>10</sup></p></li>
-</ul></li>
-<li><p><strong>Proses Validasi (W-Model &amp; PICOC):</strong></p>
-<ul>
-<li><p>Pembelajaran TISE tidak linear; ia mengikuti proses <strong>W-Model</strong>.<sup>3</sup> Siswa mulai di kiri atas (Aplikasi - masalah), turun ke kiri bawah (Fundamental - riset prinsip) untuk mengisi “peta pengetahuan” mereka. Kemudian, mereka naik di sisi kanan (F <span class="math inline">\(\rightarrow\)</span> T <span class="math inline">\(\rightarrow\)</span> S <span class="math inline">\(\rightarrow\)</span> A) untuk membangun solusi di “peta aplikasi” mereka.</p></li>
-<li><p>Untuk <em>membuktikan</em> penguasaan, siswa harus menggunakan <strong>PICOC Berlapis</strong> (<em>Layered PICOC</em>).<sup>3</sup> Mereka harus membuat “rantai bukti” yang tak terputus, memvalidasi klaim mereka di setiap lapisan ASTF: <em>Outcome</em> di lapisan F (prinsip baru terbukti), <em>Outcome</em> di lapisan T (teknologi baru lebih efisien), <em>Outcome</em> di lapisan S (sistem baru lebih andal), dan <em>Outcome</em> di lapisan A (aplikasi baru lebih memuaskan pengguna).</p></li>
-</ul></li>
-<li><p><strong>Penyelesaian Paradoks (Pemihakan pada Pemberdayaan Manusia):</strong></p>
-<ul>
-<li><p>Inilah inti dari VALORISE. Agen PUDAL (PSA) yang membantu siswa belajar dirancang dengan <strong>“Anti-Answer Constraint”</strong>.<sup>10</sup></p></li>
-<li><p>Ini adalah pemihakan desain yang disengaja. <strong>D-Agent</strong> (<em>Decision-making</em>) dari sistem PUDAL <em>dilarang</em> memberikan jawaban yang efisien (pemberdayaan mesin). Sebaliknya, ia <em>diwajibkan</em> secara etis dan pedagogis untuk memprioritaskan intervensi (<em>scaffolding</em>) yang membangun <strong>Agensi</strong> dan <strong>Self-Authorship</strong> siswa (pemberdayaan manusia).<sup>2</sup></p></li>
-<li><p>Agen VALORISE tidak akan menjawab, “Apa jawabannya?” Sebaliknya, ia akan merespons dengan <em>prompt</em> reflektif TISE 2.0 <sup>1</sup>: “Itu tantangan yang menarik. Apa yang telah Anda coba? Kekuatan apa dari diri Anda yang dapat Anda gunakan untuk meresponsnya?”</p></li>
-</ul></li>
-</ol>
-<p>Dengan demikian, VALORISE menggunakan AI bukan untuk menggantikan pemikiran, tetapi untuk <em>memprovokasi</em> <strong>Penalaran Otobiografis</strong>, memaksa siswa untuk menjadi <strong>Protagonis-Penulis</strong> dari pembelajaran mereka sendiri. Ini adalah pemihakan radikal, dan perlu, pada pemberdayaan manusia di era AI.</p>
+<section id="pembelajaran-tentang-teknologi-ketidaksetaraan-dan-tanggung-jawab-sosial" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="pembelajaran-tentang-teknologi-ketidaksetaraan-dan-tanggung-jawab-sosial"><span class="header-section-number">9.1</span> Pembelajaran tentang Teknologi, Ketidaksetaraan, dan Tanggung Jawab Sosial</h2>
+<section id="teknologi-sebagai-cermin-struktur-sosial" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="teknologi-sebagai-cermin-struktur-sosial"><span class="header-section-number">9.1.1</span> Teknologi sebagai Cermin Struktur Sosial</h3>
+<p>Salah satu pembelajaran utama dari pengembangan masterpiece ini adalah bahwa teknologi mencerminkan struktur sosial yang melahirkannya. Ketimpangan yang muncul dalam sistem digital sering kali merupakan refleksi dari ketimpangan di dunia nyata.</p>
+<hr>
+</section>
+<section id="pentingnya-literasi-etis" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="pentingnya-literasi-etis"><span class="header-section-number">9.1.2</span> Pentingnya Literasi Etis</h3>
+<p>Pengetahuan teknis tanpa kesadaran etis berisiko menghasilkan solusi yang dangkal. Mahasiswa Teknik Informatika perlu memahami bahwa setiap keputusan desain membawa implikasi sosial jangka panjang.</p>
+<hr>
+</section>
+<section id="pendekatan-sistemik" class="level3" data-number="9.1.3">
+<h3 data-number="9.1.3" class="anchored" data-anchor-id="pendekatan-sistemik"><span class="header-section-number">9.1.3</span> Pendekatan Sistemik</h3>
+<p>Ketidaksetaraan global tidak dapat diselesaikan oleh satu aplikasi atau algoritma. Diperlukan kolaborasi antara teknologi, kebijakan publik, pendidikan, dan masyarakat sipil. Teknologi berperan sebagai penghubung, bukan penyelamat tunggal.</p>
+<hr>
+</section>
+<section id="penutup-reflektif" class="level3" data-number="9.1.4">
+<h3 data-number="9.1.4" class="anchored" data-anchor-id="penutup-reflektif"><span class="header-section-number">9.1.4</span> Penutup Reflektif</h3>
+<p>Pembelajaran terpenting dari masterpiece ini adalah kesadaran bahwa teknologi yang bermakna bukan hanya tentang kecanggihan, tetapi tentang <strong>keberpihakan yang sadar</strong>. Di era Artificial Intelligence, tanggung jawab pengguna teknologi adalah memastikan bahwa kemajuan tidak hanya dinikmati oleh segelintir orang, tetapi menjadi milik bersama umat manusia.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -328,13 +307,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../My_Opinions/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
@@ -41,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-70a47bd5681a7291082a5b9f83d58762.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -95,7 +96,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Fachriza Ahmad Setiyono</a> 
     </div>
@@ -190,8 +193,20 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#platform-ai-terbuka-untuk-pemetaan-dan-intervensi-ketidaksetaraan-global" id="toc-platform-ai-terbuka-untuk-pemetaan-dan-intervensi-ketidaksetaraan-global" class="nav-link active" data-scroll-target="#platform-ai-terbuka-untuk-pemetaan-dan-intervensi-ketidaksetaraan-global"><span class="header-section-number">8.1</span> Platform AI Terbuka untuk Pemetaan dan Intervensi Ketidaksetaraan Global</a>
+  <ul class="collapse">
+  <li><a href="#latar-belakang-inovasi" id="toc-latar-belakang-inovasi" class="nav-link" data-scroll-target="#latar-belakang-inovasi"><span class="header-section-number">8.1.1</span> Latar Belakang Inovasi</a></li>
+  <li><a href="#deskripsi-sistem" id="toc-deskripsi-sistem" class="nav-link" data-scroll-target="#deskripsi-sistem"><span class="header-section-number">8.1.2</span> Deskripsi Sistem</a></li>
+  <li><a href="#nilai-inovatif" id="toc-nilai-inovatif" class="nav-link" data-scroll-target="#nilai-inovatif"><span class="header-section-number">8.1.3</span> Nilai Inovatif</a></li>
+  <li><a href="#tantangan-dan-realisme" id="toc-tantangan-dan-realisme" class="nav-link" data-scroll-target="#tantangan-dan-realisme"><span class="header-section-number">8.1.4</span> Tantangan dan Realisme</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -215,25 +230,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../images/PUDAL.png" class="img-fluid figure-img"></p>
-<figcaption>PUDAL</figcaption>
-</figure>
-</div>
-<p><strong>Judul: TISE 2.0: Arsitektur “Teater Kerja” Agentik</strong></p>
-<p>Inovasi utama saya adalah pengembangan paradigma <strong>Triune-Intelligence Smart Engineering (TISE)</strong>, dan evolusinya dari TISE 1.0 ke TISE 2.0. TISE 1.0 berfokus pada perancangan “Sub-Ruang” atau “Teater Kerja” untuk orkestrasi tugas yang efisien, guna menjembatani kesenjangan antara Titik A (saat ini) dan Titik B (yang diinginkan) dalam Ruang PSKVE.<sup>1</sup> TISE 2.0 mengambil arsitektur ini dan mengisinya dengan tujuan yang lebih tinggi: ko-kreasi naratif dan pemberdayaan <strong>Agensi</strong> <em>stakeholder</em>.<sup>1</sup></p>
-<p>“Teater kerja” ini adalah implementasi teknis dari “lingkungan” yang saya bahas di ‘My Opinions’. Ini adalah <strong>Sub-Ruang PSKVE</strong> <sup>6</sup> yang dirancang untuk memberdayakan rekayasawan Sistem dan Teknologi Informasi dalam memfasilitasi pemecahan masalah (<em>Problem Solving</em>). Arsitektur operasionalnya terdiri dari komponen-komponen berikut:</p>
-<ol type="1">
-<li><p><strong>Stasion:</strong> Ini adalah <em>hub</em> fungsional dalam teater kerja di mana nilai diciptakan atau dipertukarkan. Dalam alegori “The Helix Commute”, ini adalah “Stasiun A (Ide)” dan “Stasiun B (Produk Selesai)”.<sup>5</sup> Ini adalah titik-titik di mana “PSKVE Energon” ditransduksi (misalnya, ‘Human Energon’ diubah menjadi ‘Product Energon’).</p></li>
-<li><p><strong>Kendaraan (Agen PUDAL):</strong> Untuk bergerak di antara stasiun, <em>stakeholder</em> membutuhkan “kendaraan”. “Kendaraan” ini bukanlah perangkat fisik, melainkan <strong>Agen Pemecah Masalah (Problem Solving Agent - PSA)</strong> yang cerdas dan otonom.<sup>8</sup> Arsitektur kognitif dari agen ini adalah sistem <strong>PUDAL</strong> (Perceive, Understand, Decision, Act, Learning-evaluating).<sup>3</sup></p></li>
-<li><p><strong>Jaringan Rute Jalan (Siklus PUDAL/Problem Solving):</strong> “Kendaraan” (Agen PUDAL) tidak bergerak secara acak; ia mengikuti “jaringan rute jalan”. Rute ini adalah <strong>Siklus 7-Langkah Pemecahan Masalah</strong> (1. Identifikasi Masalah, 2. Picu/Trigger, 3. Kejadian/Event, 4. Baca STATUS, 5. Evaluasi, 6. Adaptasi, 7. Selesai/Lesson Learned).<sup>8</sup> Siklus 7-Langkah ini adalah <em>manifestasi eksternal</em> dan alur kerja terstruktur dari siklus kognitif PUDAL <em>internal</em> yang sedang beraksi, memandu <em>stakeholder</em> melalui proses pemecahan masalah yang adaptif dan iteratif.<sup>8</sup></p></li>
-<li><p><strong>Teknologi CORE Engine (Mesin Energon):</strong> “Kendaraan” (Agen PUDAL) membutuhkan tenaga. Tenaga ini disediakan oleh <strong>CORE Engine</strong>.<sup>6</sup> CORE Engine adalah <strong>Mesin Energon</strong> <sup>5</sup>, sebuah <em>transducer</em> fundamental yang beroperasi dalam siklus empat langkah (Input, Encode, Decode, Output) <sup>6</sup> untuk mengubah satu bentuk energi ke bentuk lainnya.</p></li>
-<li><p><strong>Fundamental Riset PSKVE (Bahan Bakar):</strong> CORE Engine tidak menciptakan energi; ia mengubahnya. “Bahan bakar” untuk mesin ini berasal dari <strong>Fundamental Riset PSKVE</strong>.<sup>3</sup> Riset fundamental inilah yang menemukan prinsip-prinsip konversi “Energon” (misalnya, ‘Human Energon’ menjadi ‘Knowledge Energon’, atau ‘Economic Energon’ menjadi ‘Service Energon’).<sup>5</sup> Prinsip-prinsip ini kemudian digunakan oleh CORE Engine untuk menghasilkan “Working Energon” yang menggerakkan Agen PUDAL.<sup>7</sup></p></li>
-</ol>
-<p>Singkatnya, inovasi TISE 2.0 adalah arsitektur <em>full-stack</em> untuk pemberdayaan: dimulai dari <strong>Riset PSKVE</strong> (bahan bakar/prinsip), ditenagai oleh <strong>CORE Engine</strong> (mesin/transducer), dieksekusi oleh <strong>Kendaraan PUDAL</strong> (agen/kognisi), yang berjalan di atas <strong>Rute Siklus 7-Langkah</strong> (proses/alur kerja), untuk memindahkan <em>stakeholder</em> antar <strong>Stasiun</strong> (tujuan/nilai), di dalam <strong>Teater Kerja TISE 2.0</strong> (lingkungan pemberdayaan naratif).</p>
+<section id="platform-ai-terbuka-untuk-pemetaan-dan-intervensi-ketidaksetaraan-global" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="platform-ai-terbuka-untuk-pemetaan-dan-intervensi-ketidaksetaraan-global"><span class="header-section-number">8.1</span> Platform AI Terbuka untuk Pemetaan dan Intervensi Ketidaksetaraan Global</h2>
+<section id="latar-belakang-inovasi" class="level3" data-number="8.1.1">
+<h3 data-number="8.1.1" class="anchored" data-anchor-id="latar-belakang-inovasi"><span class="header-section-number">8.1.1</span> Latar Belakang Inovasi</h3>
+<p>Banyak kebijakan sosial gagal bukan karena kurangnya niat baik, tetapi karena kurangnya data yang akurat dan terintegrasi. Inovasi yang diusulkan dalam masterpiece ini adalah sebuah <strong>platform AI terbuka</strong> yang berfungsi sebagai alat pemetaan, analisis, dan rekomendasi kebijakan terkait ketidaksetaraan global.</p>
+<hr>
+</section>
+<section id="deskripsi-sistem" class="level3" data-number="8.1.2">
+<h3 data-number="8.1.2" class="anchored" data-anchor-id="deskripsi-sistem"><span class="header-section-number">8.1.2</span> Deskripsi Sistem</h3>
+<p>Platform ini mengintegrasikan data dari berbagai sumber publik, seperti:</p>
+<ul>
+<li>Statistik pendapatan dan kemiskinan</li>
+<li>Akses pendidikan dan kesehatan</li>
+<li>Infrastruktur digital</li>
+<li>Indikator ketimpangan sosial</li>
+</ul>
+<p>AI digunakan untuk mendeteksi pola, memprediksi risiko sosial, dan memberikan rekomendasi berbasis data.</p>
+<hr>
+</section>
+<section id="nilai-inovatif" class="level3" data-number="8.1.3">
+<h3 data-number="8.1.3" class="anchored" data-anchor-id="nilai-inovatif"><span class="header-section-number">8.1.3</span> Nilai Inovatif</h3>
+<p>Keunggulan utama inovasi ini adalah:</p>
+<ul>
+<li><strong>Transparansi algoritmik</strong></li>
+<li><strong>Open-access</strong> untuk pemerintah, NGO, dan publik</li>
+<li><strong>Human-centered design</strong></li>
+<li><strong>Partisipasi komunitas dalam validasi data</strong></li>
+</ul>
+<p>Inovasi ini tidak hanya menekankan kecanggihan teknis, tetapi juga legitimasi sosial.</p>
+<hr>
+</section>
+<section id="tantangan-dan-realisme" class="level3" data-number="8.1.4">
+<h3 data-number="8.1.4" class="anchored" data-anchor-id="tantangan-dan-realisme"><span class="header-section-number">8.1.4</span> Tantangan dan Realisme</h3>
+<p>Tantangan utama mencakup kualitas data, bias algoritmik, dan keberlanjutan sistem. Namun, tantangan ini justru menjadi ruang pembelajaran dan pengembangan kapasitas kita sebagai agen perubahan sosial.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -287,13 +321,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
