@@ -1,2 +1,65 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+Berikut adalah review dan analisis penilaian untuk keempat esai berdasarkan rubrik yang telah ditentukan:
+
+---
+
+## 1. Penilaian Esai: My Concepts
+
+**Judul:** Sistem dan Teknologi Informasi sebagai Instrumen Reduksi Ketidaksetaraan Global di Era Artificial Intelligence
+
+| Kriteria | Skor | Penjelasan |
+| --- | --- | --- |
+| **Clarity & Logic** | 5 | Konsep disajikan dengan sangat jelas dan mudah dipahami tanpa ambigitas. Penulis membangun struktur yang sangat logis, mulai dari definisi AI sebagai "pedang bermata dua" hingga penempatan teknologi sebagai instrumen sosial dengan penalaran yang runtut.|
+| **Validity** | 5 | Konsep didukung dengan argumen yang kuat mengenai AI sebagai infrastruktur sosial yang mengatur aliran sumber daya dan keputusan. Penggunaan tiga prinsip utama (Aksesibilitas, Akuntabilitas, Keadilan) memberikan validitas tinggi pada kerangka konseptual yang dibangun.|
+| **Usefulness** | 5 | Konsep ini memiliki aplikasi praktis yang signifikan, terutama dalam merumuskan sistem teknologi yang berorientasi pada pengurangan ketidaksetaraan global, seperti pemetaan wilayah miskin atau optimalisasi layanan publik.|
+
+**Status: Excellent**
+
+---
+
+## 2. Penilaian Esai: My Opinions
+
+**Judul:** Artificial Intelligence Tidak Netral terhadap Ketidaksetaraan Global
+
+| Kriteria | Skor | Penjelasan |
+| --- | --- | --- |
+| **Compelling** | 5 | Esai sangat memikat perhatian pembaca dengan mengkritisi narasi umum bahwa AI adalah teknologi objektif. Penggunaan bahasa yang berdampak seperti "arsitek struktur digital sosial" mempertahankan ketertarikan pembaca hingga akhir.|
+| **Informative** | 5 | Memberikan wawasan mendalam mengenai bagaimana AI belajar dari data historis yang bias dan berpotensi mereproduksi ketimpangan struktural. Penulis memberikan contoh konkret pada sektor finansial dan ketenagakerjaan.|
+| **Persuasive** | 5 | Argumen yang disajikan sangat persuasif, didukung dengan alasan logis bahwa netralitas teknologi adalah ilusi karena setiap sistem mencerminkan nilai pembuatnya.|
+| **Engaging** | 5 | Esai ini berhasil melibatkan pembaca secara intelektual dan emosional dengan menantang insan teknologi (mahasiswa dan profesional) untuk memiliki keberanian intelektual dalam mempertanyakan dampak sistem yang dibangun.|
+
+**Status: Excellent**
+
+---
+
+## 3. Penilaian Esai: My Innovations
+
+**Judul:** Platform AI Terbuka untuk Pemetaan dan Intervensi Ketidaksetaraan Global
+
+| Kriteria | Skor | Penjelasan |
+| --- | --- | --- |
+| **Guna** | 5 | Inovasi sangat berguna sebagai alat bantu bagi pemerintah dan NGO dalam pengambilan kebijakan berbasis data yang akurat untuk mengatasi kegagalan kebijakan sosial sebelumnya.|
+| **Kebaruan** | 4 | Menawarkan pendekatan "Platform AI Terbuka" yang mengintegrasikan berbagai indikator ketimpangan sosial (pendapatan, pendidikan, kesehatan) dalam satu wadah transparan.|
+| **Desain** | 5 | Desain sistem sangat komprehensif dengan mengedepankan *human-centered design*, transparansi algoritmik, serta partisipasi komunitas dalam validasi data.|
+| **Dampak** | 5 | Berpotensi memberikan dampak sosial yang luas melalui deteksi pola risiko sosial dan rekomendasi kebijakan yang memiliki legitimasi sosial, bukan sekadar kecanggihan teknis.|
+
+**Skor Keseluruhan: 4.75 / 5**
+
+---
+
+## 4. Penilaian Esai: My Knowledge
+
+**Judul:** Pembelajaran tentang Teknologi, Ketidaksetaraan, dan Tanggung Jawab Sosial
+
+| Kriteria | Skor | Penjelasan |
+| --- | --- | --- |
+| **Kurasi** | 5 | Penulis berhasil mengkurasi pembelajaran inti dari pengembangan proyek, yaitu bahwa teknologi adalah cermin struktur sosial dan ketimpangan digital adalah refleksi dunia nyata.|
+| **Kejelasan** | 5 | Refleksi disampaikan dengan sangat jelas, terutama mengenai peran teknologi sebagai "penghubung" dan bukan "penyelamat tunggal".|
+| **Akurasi** | 5 | Sangat akurat dalam mengidentifikasi bahwa solusi teknis yang dangkal muncul dari kurangnya kesadaran etis dan literasi etis dalam pengambilan keputusan desain.|
+| **Daya Guna** | 5 | Memiliki daya guna tinggi sebagai panduan moral bagi mahasiswa Teknik Informatika untuk memastikan kemajuan teknologi menjadi milik bersama umat manusia.|
+
+**Skor Keseluruhan: 5 / 5**
+
+---
+
+Apakah Anda ingin saya membuatkan ringkasan eksekutif dari seluruh penilaian ini untuk keperluan presentasi?
